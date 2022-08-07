@@ -1,1 +1,1 @@
-# holbertonschool-smiling-school-javascript
+README for Java Script Smiling School App for Holberton School by Hayden M. Cooper (Placeholder README)
