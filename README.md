@@ -1,1 +1,5 @@
-README for Java Script Smiling School App for Holberton School by Hayden M. Cooper (Placeholder README)
+HOLBERTON SMILING SCHOOL PROJECT: DESCRIPTION / PROJECT GOAL: Implement a design from scratch that looks like what a hypothetical customer desires for their webpage specifically using Bootstrap and it's classes. The webpages pages must look like the final product specified, using principles of responsive design with Bootstrap HTML.
+
+INSTALL: This webpage is currently only available on GitHub. To run, clone the repo to view in your browser
+
+ABOUT: This project was created totally in CSS and Bootstrap4. No other tools were used to create these webpages. All images and icons credited to HOLBERTON SCHOOL.
